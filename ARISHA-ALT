@@ -193,7 +193,7 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="HINDI",Sony TV
-http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 
 #EXTINF:-1 tvg-logo="https://kcltv.com/software/images/uploads/2019-01-12%2009:22:11_SET_HD_2016.jpg" group-title="HINDI",Sony TV HD
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
